@@ -1,0 +1,5 @@
+C:\Projects\SpecFlowBrownbag\Documentation\bin\Debug\Documentation.dll
+C:\Projects\SpecFlowBrownbag\Documentation\bin\Debug\Documentation.pdb
+C:\Projects\SpecFlowBrownbag\Documentation\obj\Debug\Documentation.csprojResolveAssemblyReference.cache
+C:\Projects\SpecFlowBrownbag\Documentation\obj\Debug\Documentation.dll
+C:\Projects\SpecFlowBrownbag\Documentation\obj\Debug\Documentation.pdb

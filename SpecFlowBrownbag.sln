@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowBrownbag", "SpecFlowBrownbag\SpecFlowBrownbag.csproj", "{8A758109-5676-485E-8B3F-AF194CC08BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentation", "Documentation\Documentation.csproj", "{9766B355-9299-4BCE-8AE4-12061EEEA1C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specification", "Specification\Specification.csproj", "{A6E800D5-0E3A-4814-BC27-C52670840B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A758109-5676-485E-8B3F-AF194CC08BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A758109-5676-485E-8B3F-AF194CC08BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A758109-5676-485E-8B3F-AF194CC08BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A758109-5676-485E-8B3F-AF194CC08BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9766B355-9299-4BCE-8AE4-12061EEEA1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9766B355-9299-4BCE-8AE4-12061EEEA1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9766B355-9299-4BCE-8AE4-12061EEEA1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9766B355-9299-4BCE-8AE4-12061EEEA1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E800D5-0E3A-4814-BC27-C52670840B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E800D5-0E3A-4814-BC27-C52670840B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E800D5-0E3A-4814-BC27-C52670840B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E800D5-0E3A-4814-BC27-C52670840B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
