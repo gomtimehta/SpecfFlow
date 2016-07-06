@@ -11,6 +11,7 @@ namespace SpecFlowBrownbag.Controllers
         // GET: Password
         public ActionResult Index()
         {
+            //Made some changes to test branch2
             return View();
         }
     }
